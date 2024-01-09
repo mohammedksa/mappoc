@@ -1,0 +1,28 @@
+[
+    {
+      "id": "1",
+      "name": "Location 1",
+      "latitude": 3.140853,
+      "longitude": 101.693207,
+      "description": "Description 1"
+    },
+    {
+      "id": "2",
+      "name": "Location 2",
+      "latitude": 3.15,
+      "longitude": 101.7,
+      "description": "Description 2"
+    },{
+      "id": "50",
+      "name": "99 Speedmart @1050 - Desa Aman Puri",
+      "storelogo": "https://firebasestorage.googleapis.com/v0/b/beebag-28946.appspot.com/o/unpartneredvendor%2F99SpeedmartLogo.png?alt=media&token=12248bce-c602-495f-861c-b2c5714d36a9",
+      "createddate": null,
+      "address": "No:2-39A-A-G & 2-39A-A-I(Ground & Mezzanine Floor),Jalan Desa 1/1, Desa Aman Puri,52100 Kuala Lumpur.",
+      "latitude": 3.144,
+      "longitude": 101.697,
+      "storetype": "unofficial",
+      "place_id": "ChIJ81Ly-KO1zTERnnvn-Debn6w"
+    }
+    
+  ]
+  
